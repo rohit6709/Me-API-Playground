@@ -9,7 +9,7 @@ A simple backend-focused full-stack application that stores my personal profile 
 - **Backend API:** https://me-api-playground-b1md.onrender.com
 - **Frontend:** https://me-api-playground-omega.vercel.app
 - **GitHub Repository:** https://github.com/rohit6709/Me-API-Playground
-- **Resume** https://drive.google.com/file/d/12CwUcHJEP4A7RlNXpj07sgmFuQ15e0Au/view?usp=drive_link
+- **Resume:** https://drive.google.com/file/d/12CwUcHJEP4A7RlNXpj07sgmFuQ15e0Au/view?usp=drive_link
 
 ---
 
