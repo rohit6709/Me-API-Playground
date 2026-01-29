@@ -6,10 +6,10 @@ A simple backend-focused full-stack application that stores my personal profile 
 
 ## 🔗 Live URLs
 
-- **Backend API:** https://me-api-playground.onrender.com
-- **Frontend:** https://me-api-playground.vercel.app
-- **GitHub Repository:** https://github.com/rohit6709/me-api-playground
-- **Resume/Portfolio:** https://rohitdogra-portfolio.vercel.app/
+- **Backend API:** https://me-api-playground-b1md.onrender.com
+- **Frontend:** https://me-api-playground-omega.vercel.app
+- **GitHub Repository:** https://github.com/rohit6709/Me-API-Playground
+- **Resume** https://drive.google.com/file/d/12CwUcHJEP4A7RlNXpj07sgmFuQ15e0Au/view?usp=drive_link
 
 ---
 
@@ -135,8 +135,8 @@ Full schema documentation: [backend/schema/schema.md](backend/schema/schema.md)
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/rohit6709/me-api-playground.git
-cd me-api-playground
+git clone https://github.com/rohit6709/Me-API-Playground.git
+cd Me-API-Playground
 ```
 
 ### 2️⃣ Backend Setup
@@ -146,7 +146,7 @@ npm install
 
 # Create .env file
 echo "PORT=5000
-MONGO_URI=mongodb://localhost:27017/me-api
+MONGODB_URI=mongodb://localhost:27017/me-api
 NODE_ENV=development" > .env
 
 # Seed the database
@@ -180,7 +180,7 @@ Frontend runs on: `http://localhost:5173`
 3. Set environment variables:
    ```
    PORT=5000
-   MONGO_URI=<your-mongodb-atlas-uri>
+   MONGODB_URI=<your-mongodb-atlas-uri>
    NODE_ENV=production
    ```
 4. Deploy with `npm run dev` or `npm start`
@@ -190,8 +190,9 @@ Frontend runs on: `http://localhost:5173`
 2. Import project in Vercel
 3. Set environment variable:
    ```
-   VITE_BASE_URL=https://me-api-playground.onrender.com
+   VITE_BASE_URL=<your-backend-deployment-url>
    ```
+   Example: `https://me-api-playground-b1md.onrender.com`
 4. Deploy automatically
 
 ---
@@ -357,7 +358,7 @@ me-api-playground/
 
 **Rohit Dogra**
 
-- 📧 Email: [rohit@example.com](mailto:rohit@example.com)
+- 📧 Email: [dograrohit954@gmail.com](mailto:dograrohit954@gmail.com)
 - 🐙 GitHub: [github.com/rohit6709](https://github.com/rohit6709)
 - 💼 LinkedIn: [linkedin.com/in/rohit-dogra2004](https://www.linkedin.com/in/rohit-dogra2004/)
 - 🌐 Portfolio: [rohitdogra-portfolio.vercel.app](https://rohitdogra-portfolio.vercel.app/)
