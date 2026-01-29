@@ -1,7 +1,7 @@
 import cors from 'cors';
 
 const corsOptions = {
-    origin: '*',
+    origin: process.env.FRONTEND_URL,
     methods: ['GET','POST','PUT'],
     credentials: true
 };
